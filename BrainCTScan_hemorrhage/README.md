@@ -13,3 +13,6 @@ Ensure original images have corresponding mask coordinates information. Convert 
 
 **3. Segmentation:**
 Generate a predicted mask image to identify the hemorrhage area in the CT scans.
+
+**4. Classification:**
+Employ traditional machine learning and CNNs for predicting hemorrhage types.
