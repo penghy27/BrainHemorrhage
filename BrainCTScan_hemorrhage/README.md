@@ -1,7 +1,7 @@
 # README.md
 ## Project Overview:
 
-This project utilizes a dataset provided by the company, consisting of brain CT scan slices with labeled hemorrhages. Hemorrhages are categorized into various types, including intraparenchymal, intraventricular, subarachnoid, subdural, epidural, and a category for images with multiple sources of bleeding. The objective is to employ machine learning, computer vision, and data analytics to do the classification, regression and the segmentation of these CT images. The ultimate goal is to predict hemorrhage types and locations.
+This project utilizes a dataset provided by the company, consisting of brain CT scan slices with labeled hemorrhages. Hemorrhages are categorized into various types, including intraparenchymal, intraventricular, subarachnoid, subdural, epidural, and a category for images with normal brain type. The objective is to employ machine learning, computer vision, and data analytics to do the classification, regression and the segmentation of these CT images. The ultimate goal is to predict hemorrhage types and locations.
 
 ## Project Workflow:
 
